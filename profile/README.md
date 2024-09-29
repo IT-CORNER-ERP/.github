@@ -1,4 +1,8 @@
-# 👋 Welcome to **ERP Corner**!
+<!--Banner-->
+![ERP Corner Banner Image](./erpcorner.gif)
+
+<hr>
+
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=0096FF&width=500&height=28&lines=Welcome+to+ERP+Corner!+🚀;Experts+in+ERP+Systems+⚙️;Streamlining+Business+Processes+📈;Empowering+Efficiency+and+Growth+🌟;Innovating+with+Microservices+🛠️;Let's+Transform+Business+Together!+💼&center=true">
 </p>
