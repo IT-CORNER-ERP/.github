@@ -1,4 +1,11 @@
 # 👋 Welcome to **ERP Corner**!
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=0096FF&width=500&height=28&lines=Welcome+to+ERP+Corner!+🚀;Experts+in+ERP+Systems+⚙️;Streamlining+Business+Processes+📈;Empowering+Efficiency+and+Growth+🌟;Innovating+with+Microservices+🛠️;Let's+Transform+Business+Together!+💼&center=true">
+</p>
+
+<p align="right"> 
+    <img src="https://komarev.com/ghpvc/?username=IT-CORNER-ERP&label=Company%20views&color=0096FF&style=for-the-badge&logo=star" alt="crysna-wima" style="padding-right:20px;" />
+</p>
 
 🚀 **ERP Corner** is the IT division of our company, dedicated to building innovative and scalable ERP (Enterprise Resource Planning) solutions tailored to enhance business processes and efficiency.
 
